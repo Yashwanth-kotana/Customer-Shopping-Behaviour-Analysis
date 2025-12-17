@@ -11,7 +11,6 @@ The project is implemented using **Python (Jupyter Notebook)** for data analysis
 ## 🧾 Dataset Summary
 
 * **Total Transactions:** 3,900 purchases
-* **Features:** 18 data points per record
 * **Product Types:** 25
 * **Categories:** 4
 * **Key Attributes:**
