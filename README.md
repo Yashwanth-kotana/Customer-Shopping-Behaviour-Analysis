@@ -158,9 +158,9 @@ customer-shopping-analysis/
 ├── sql/
 │   └── CUSTOMER_SHOPPING_TREND_ANALYSIS_2025.ipynb
 ├── data/
-│   └── cleaned_customer_data.csv
+│   └── CUSTOMER_SHOPPING_DATA.csv
 ├── FINAL TREND & ANALYSIS REPORT/
-│   └── charts_and_graphs/
+│   └── CUSTOMER_SHOPPING_ANALYSIS_FINAL_REPORT.pdf
 ├── README.md
 ```
 
