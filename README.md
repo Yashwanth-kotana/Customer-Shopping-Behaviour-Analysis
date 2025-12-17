@@ -154,12 +154,12 @@ The project is implemented using **Python (Jupyter Notebook)** for data analysis
 customer-shopping-analysis/
 │
 ├── notebooks/
-│   └── customer_analysis.ipynb
+│   └── CUSTOMER_ANALYSIS_2025.sql
 ├── sql/
-│   └── analysis_queries.sql
+│   └── CUSTOMER_SHOPPING_TREND_ANALYSIS_2025.ipynb
 ├── data/
 │   └── cleaned_customer_data.csv
-├── visuals/
+├── FINAL TREND & ANALYSIS REPORT/
 │   └── charts_and_graphs/
 ├── README.md
 ```
